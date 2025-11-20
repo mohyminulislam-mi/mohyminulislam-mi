@@ -1,9 +1,9 @@
 <div align="center">
 <h1>👋 Hi, I’m Mohyminul Islam</h1>
-MERN Stack Web Developer | Full-Stack Builder | Problem Solver
+MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions
 <br>
   <br>
-I build modern, fast, and user-focused web applications using the MERN stack. Clean UI, optimized backend, and real-world problem-solving are at the heart of my work.
+MERN Stack Developer passionate about building fast, scalable, and user-focused web apps. Skilled in JavaScript, React, Node.js, Express, and MongoDB. Love clean code, smart architecture, and solving real-world problems with modern full-stack engineering. Always learning. Always building.
 
 ---
 </div>
@@ -35,7 +35,16 @@ I build modern, fast, and user-focused web applications using the MERN stack. Cl
 <br>
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohyminulislam) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohyminulislam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohyminulislam.mi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohyminulislam.mi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohyminulislam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohyminulislam.mi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohyminulislammi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohyminulislam_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mohyminulislam) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/mohyminulislam_mi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohyminulislam2020@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohyminulislam) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mohyminulislam) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohyminulislam.mi) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohyminulislam_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohyminulislam.mi) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohyminulislam)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohyminulislam) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohyminulislam.mi) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohyminulislam2020@gmail.com) 
 
 
 ## 💻 Programming Languages
