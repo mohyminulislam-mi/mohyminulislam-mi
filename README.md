@@ -1,7 +1,4 @@
-<div align="center" style="background-color: #000000;">
-  <a href="https://github.com/amdadislam01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<div align="center" ">
 <h1>👋 Hi, I’m Mohyminul Islam</h1>
 MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions
 <br>
