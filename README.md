@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋">
+<div align="center" style="background-color: #000000;">
+  <a href="https://github.com/amdadislam01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 <h1>👋 Hi, I’m Mohyminul Islam</h1>
 MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions
 <br>
